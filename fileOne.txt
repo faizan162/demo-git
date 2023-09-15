@@ -10,3 +10,5 @@ This line was missing from feature One. So, added here.
 
 This is feature 2.
 This represents feature 2.
+
+This is a stash
