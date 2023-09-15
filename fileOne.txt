@@ -2,3 +2,6 @@ This is our File one.
 AKA Master/Main
 
 This line is developed in develop branch.
+
+This line is feature One.
+This line is also feature One.
